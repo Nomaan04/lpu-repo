@@ -1,5 +1,5 @@
 # lpu-repo
 this is my first tutorial
-#heading
+# heading
 
 hey! do u want any help?
